@@ -4,7 +4,7 @@
 
 - [x] "Die SSH-Schlüssel hatte ich schon längst erstellt."\
 
-- [x] "Ich habe die URL bei Github über SSH kopiert <a name="git clone git@github.com:Rommbo/MeinProjekt.git"></a> und auf mein lokaler Rechner auf C:/Users/Romeo/Desktop geklont dann die konfiguration von git mit dem Befehl bei c) 11. git init zum initialisieren von Git dann genauso wie bei c) 12. die initialen Commits durchgeführt."</br>
+- [x] "Ich habe die URL bei Github über SSH kopiert [guidelines for this Projekt](/README.md) und auf mein lokaler Rechner auf C:/Users/Romeo/Desktop geklont dann die konfiguration von git mit dem Befehl bei c) 11. git init zum initialisieren von Git dann genauso wie bei c) 12. die initialen Commits durchgeführt."</br>
 
 - [x] "Erstellen der feature-Branch mit dem Befehl von c) 13. gefolgt von c) 14. und c) 15. mit der Befehlen."</br>
 
